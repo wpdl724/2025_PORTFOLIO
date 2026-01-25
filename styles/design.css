@@ -4,7 +4,7 @@
     
 }
 #wrap .design .design_title_wrap{/* 디자인 -인덱스 , 대제목  */
-    background-color: yellow;
+    /* background-color: yellow; */
     padding: 0 140px;
     margin: 0 auto;
     display: flex;    

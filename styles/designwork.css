@@ -132,7 +132,18 @@
     padding-left: 30px;
 }
 #wrap #end h1 img{}
+#wrap #end h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 20px;}
 #wrap #end p{
+    color: #fff;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 50px;
+}
+#wrap #end p span{
     color: #fff;
     text-align: center;
     font-size: 1.5rem;

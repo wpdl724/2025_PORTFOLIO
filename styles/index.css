@@ -71,7 +71,7 @@ body {}
 
 #wrap .swiper-wrapper .profile .container .intro_title_wrap h2 {
     /* 자기소개 문구*/
-    /* background-color: rgb(255, 255, 152); */
+    /* background-color: #FF5B1C; */
     color: #0D1442;
     font-size: 2rem;
     line-height: 1.4;
@@ -79,9 +79,12 @@ body {}
     padding-left: 545px;
 }
 
-#wrap .swiper-wrapper .profile .container .intro_title_wrap h2 em {
-    font-weight: 600;
+#wrap .swiper-wrapper .profile .container .intro_title_wrap h2 span {
+    font-weight: 700;
+    font-size: 1.12em;
     color: #0D1442;
+    background: linear-gradient(to top, #a6c0fd 45%, transparent 55%);
+
 }
 
 #wrap .swiper-wrapper .profile .container .intro_contents {
@@ -155,7 +158,6 @@ body {}
     position: absolute;
     top: 0;
     right: 0;
-    /* background-color: pink; */
     height: 310px;
 }
 
@@ -235,7 +237,6 @@ body {}
 
 #wrap .swiper-wrapper .profile .container .intro_info_wrap .right_bottom_wrap #edu_wrap h2 {
     font-size: 1.25rem;
-    ;
     font-weight: 500;
     margin-bottom: 22px;
 }
