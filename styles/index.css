@@ -78,12 +78,19 @@ body {}
     padding-bottom: 70px;
     padding-left: 545px;
 }
+#wrap .swiper-wrapper .profile .container .intro_title_wrap h2 em {
+    /* background: linear-gradient(to top, #c8d8fd 45%, transparent 65%); */
+    /* background: linear-gradient(to top, #F2C94C 45%, transparent 65%); */
+    background: linear-gradient(to top, #cbe9f2 45%, transparent 65%);
+    font-weight: 700;
 
+}
 #wrap .swiper-wrapper .profile .container .intro_title_wrap h2 span {
     font-weight: 700;
     font-size: 1.12em;
     color: #0D1442;
-    background: linear-gradient(to top, #a6c0fd 45%, transparent 55%);
+    /* background: linear-gradient(to top, #a6c0fd 45%, transparent 55%); */
+    background: linear-gradient(to top, #cbe9f2 45%, transparent 55%);
 
 }
 
